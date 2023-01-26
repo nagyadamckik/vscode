@@ -5,3 +5,4 @@ zöld
 lila
 fekete
 narancs
+fehér
